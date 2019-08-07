@@ -12,7 +12,7 @@ public class SimuladorAnimal {
     	
     	Animal animais[] = new Animal[3];
     	animais[0] = new Anfibio(0.,0.);
-        animais[1] = new Passaro(0.,10.);
+        animais[1] = new Ave(0.,10.);
         animais[2] = new Peixe(0.,20.);
          
         SimuladorAnimal simulador = new SimuladorAnimal();

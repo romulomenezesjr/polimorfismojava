@@ -1,7 +1,7 @@
 package aulapolimorfismo2;
-public class Passaro extends Animal{
-    public Passaro(double x, double y){
-        super(x,y,"imagens\\passaro.png");
+public class Ave extends Animal{
+    public Ave(double x, double y){
+        super(x,y,"imagens\\ave.png");
     }
     @Override
     public void mover(AmbienteEnum ambiente){

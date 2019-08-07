@@ -1,6 +1,5 @@
 package aulapolimorfismo;
 
-import java.awt.Image;
 import java.io.File;
 
 public abstract class Animal{
