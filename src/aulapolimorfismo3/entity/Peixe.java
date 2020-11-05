@@ -1,4 +1,4 @@
-package aulapolimorfismo3;
+package aulapolimorfismo3.entity;
 public class Peixe extends Animal implements AnimalAquatico{
 	
     public Peixe(double x, double y){

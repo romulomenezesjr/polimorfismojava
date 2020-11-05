@@ -1,4 +1,4 @@
-package aulapolimorfismo3;
+package aulapolimorfismo3.entity;
 public class Anfibio extends Animal implements AnimalAquatico, AnimalTerrestre{
     public Anfibio(double x, double y){
         super(x,y,"imagens\\sapo.png");

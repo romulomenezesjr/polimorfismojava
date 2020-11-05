@@ -1,6 +1,14 @@
-package aulapolimorfismo3;
+package aulapolimorfismo3.main;
 
 import aulapolimorfismo2.AmbienteEnum;
+import aulapolimorfismo3.entity.Anfibio;
+import aulapolimorfismo3.entity.Animal;
+import aulapolimorfismo3.entity.AnimalAquatico;
+import aulapolimorfismo3.entity.AnimalTerrestre;
+import aulapolimorfismo3.entity.AnimalVoador;
+import aulapolimorfismo3.entity.Ave;
+import aulapolimorfismo3.entity.Peixe;
+import aulapolimorfismo3.view.TelaSimulacao;
 
 public class SimuladorAnimal {
 

@@ -1,9 +1,11 @@
-package aulapolimorfismo3;
+package aulapolimorfismo3.view;
 import java.awt.*;
 import java.io.IOException;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
+
+import aulapolimorfismo3.entity.Animal;
 public class TelaSimulacao extends Canvas {
 	
 	private Animal[] animais;
