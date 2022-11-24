@@ -1,4 +1,4 @@
-package aulapolimorfismo;
+package aulapolimorfismo1;
 
 public class Anfibio extends Animal{
 

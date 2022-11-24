@@ -1,4 +1,4 @@
-package aulapolimorfismo;
+package aulapolimorfismo1;
 public class Peixe extends Animal{
 
     public Peixe(double x, double y){
