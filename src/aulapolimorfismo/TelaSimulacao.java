@@ -13,7 +13,7 @@ public class TelaSimulacao extends Canvas {
 	}
 
 	public void inicializar() {
-		JFrame frame = new JFrame();
+		JFrame frame = new JFrame("Simulação");
 		frame.setSize(800, 400);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().add(this);
