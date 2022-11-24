@@ -3,7 +3,7 @@ package aulapolimorfismo;
 public class Anfibio extends Animal{
 
     public Anfibio(double x, double y){
-        super(x,y,"imagens\\sapo.png");
+        super(x,y,"imagens/sapo.png");
     }
     @Override
     public void mover(){

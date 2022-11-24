@@ -2,7 +2,7 @@ package aulapolimorfismo;
 public class Peixe extends Animal{
 
     public Peixe(double x, double y){
-        super(x,y,"imagens\\peixe.png");
+        super(x,y,"imagens/peixe.png");
     }
 
     @Override
